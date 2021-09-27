@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @Kakikakikakki
 - 👀 I’m interested in financial time series analysis
-- 🌱 I’m currently learning at Kyoto University
-- 💞️ I’m looking to collaborate on you guys
-- 📫 How to reach me ...
-
-<!---
-Kakikakikakki/Kakikakikakki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m currently a Ph.D. student at Kyoto University
+- 💞️ I’m looking to collaborating with those interested in the field
+- 📫 Please contact me at kakinaka.shinji.35e@st.kyoto-u.ac.jp
