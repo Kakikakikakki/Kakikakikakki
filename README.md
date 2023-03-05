@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kakikakikakki
 - 👀 I’m interested in financial time series analysis
-- 🌱 I’m currently a Ph.D. student at Kyoto University
+- 🌱 I’m currently a Ph.D. candidate at Kyoto University
 - 💞️ I’m looking to collaborating with those interested in the field
 - 📫 Please contact me at kakinaka.shinji.d74@kyoto-u.jp
